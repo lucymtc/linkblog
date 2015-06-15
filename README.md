@@ -1,6 +1,7 @@
 LinkBlog by Lucy
 ========================================
 Requires at least: 4.0
+Donate link: http://wptips.me/donations/
 Tested up to: 4.2
 Stable tag: 1.0
 License: GPLv2 or later
